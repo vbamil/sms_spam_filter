@@ -1,3 +1,7 @@
+# Project Details
+The spam detection problem can be tackled in several ways ranging from the very simple to the very complex (a full NLP model).
+We have settled on an intermediate approach in which many features of the message are analyzed and fed into a Naive Bayes machine learning algorithm to discover the underlying patterns that help differentiate spam and non spam messages.
+
 # What is Naive Bayes Machine Learning Algorithm?
 
 ✅  Naïve Bayes is a probabilistic machine learning algorithm, which means it predicts based on the probability of an object.
